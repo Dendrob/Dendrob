@@ -1,4 +1,4 @@
-### Hi there 👋, ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dendrob.visitor-badge&left_text=Welcome)
+il### Hi there 👋, ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dendrob.visitor-badge&left_text=Welcome)
                 
 I'm just a guy who just learned Python a few days ago....
 Anyway, what more do you want me to tell you?
@@ -20,7 +20,6 @@ if you like what i do, maybe a coffee ? 🥺👉👈
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TXFHGM3K6DSAQ)
 
-<p align="center"> <img src="dendrob" alt="Dendrob" />
 
   
 <!--
