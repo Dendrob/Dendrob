@@ -1,4 +1,4 @@
-### Hi there 👋, ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maaamie.visitor-badge&left_text=Welcome)
+### Hi there 👋, ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dendrob.visitor-badge&left_text=Welcome)
                 
 I'm just a guy who just learned Python a few days ago....
 Anyway, what more do you want me to tell you?
@@ -20,11 +20,11 @@ if you like what i do, maybe a coffee ? 🥺👉👈
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TXFHGM3K6DSAQ)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maaamie&show_icons=true&theme=gotham" alt="MaAamie" />
+<p align="center"> <img src="dendrob" alt="MaAamie" />
 
   
 <!--
-**MaAamie/MaAamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dendrob/Dendrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
